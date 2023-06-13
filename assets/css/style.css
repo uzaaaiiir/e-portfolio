@@ -822,7 +822,7 @@ section .container {
 }
 
 .portfolio #portfolio-flters li:hover,
-.portfolio #portfolio-flters li.filter-active {
+.portfolio #portfolio-flters li.active {
     background: #18d26e;
 }
 
